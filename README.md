@@ -1,5 +1,5 @@
 # Link to nvda-dynamic-testing-framework
-https://github.com/mlorang/nvda-dynamic-testing-framework
+This repository is going to be used to develop the dynamic web page that will be tested on with nvda-dynamic-testing-framework(https://github.com/mlorang/nvda-dynamic-testing-framework).
 
 # Getting Started with Create React App
 
